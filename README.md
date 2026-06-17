@@ -12,6 +12,7 @@
 ---
 
 ## Project Structure
+```
 imdb_sentiment/
 ├── data/
 │   └── IMDB Dataset.csv
@@ -27,6 +28,7 @@ imdb_sentiment/
 │   └── api.py
 │
 └── SentimentOpenAI.ipynb
+```
 
 ## Aproaches
 1. Classical ML Pipeline
